@@ -1,0 +1,7 @@
+order_id,customer_id,amount,order_date,product
+ORD001,1,150.50,2024-02-01,Laptop
+ORD002,2,299.99,2024-02-15,Mouse
+ORD003,3,89.00,2024-03-10,Keyboard
+ORD004,1,150.50,2024-02-01,"Laptop   -- duplicato"
+ORD005,6,450.00,2024-03-20,"Monitor -- cliente inesistente"
+ORD006,4,1200.00,2024-04-01,PC
