@@ -1,0 +1,6 @@
+customer_id,name,email,city,signup_date
+1,Mario Rossi,mario.rossi@email.com,Roma,2024-01-10
+2,Anna Bianchi,anna.bianchi@email.com,Milano,2024-02-15
+3,Luca Verdi,luca.verdi@email.com,Napoli,2024-03-01
+4,Giulia Neri,giulia.neri@email.com,Torino,2024-01-20
+5,Marco Blu,marco.blu@email.com,Firenze,2024-04-05
