@@ -23,6 +23,9 @@ SQL · Python (pandas + sqlite3) · Excel · Git
 ## Esempi
 - [Total revenue reconciliation](sql_queries/reconciliation/total_revenue_check.sql)
 - [Defects log](docs/defects_log.md)
+- Output visibili:
+  - Revenue mismatch: [screenshots/revenue_mismatch_orphaned_customers.PNG]
+  - Clienti orfani: [screenshots/revenue_mismatch_orphaned_customers.PNG]
 
 Perfetto per ruoli QA Analyst / BI Testing.
 
